@@ -38,6 +38,7 @@ body {
   width: 112px;
   border-width: 6px;
   border-style: solid;
+  position: relative;
 }
 
 .cards__image {
